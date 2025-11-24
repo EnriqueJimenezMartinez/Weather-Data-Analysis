@@ -1,0 +1,21 @@
+﻿Ciudad,Temperatura (°C),Humedad (%),Velocidad Viento (m/s),Clima Descripcion
+Madrid,11.01,92,9.77,lluvia moderada
+New York,10.09,48,6.69,cielo claro
+Tokyo,12.18,68,3.09,muy nuboso
+Sydney,17.51,82,2.57,nubes
+Cairo,22.42,64,5.66,lluvia ligera
+Rio de Janeiro,27.02,68,5.66,muy nuboso
+Moscow,1.94,55,6.28,nubes
+Cape Town,20.35,68,12.35,cielo claro
+Toronto,5.85,73,4.63,cielo claro
+Beijing,0.94,25,4.87,cielo claro
+Mumbai,28.99,61,2.06,niebla
+Buenos Aires,23.25,54,3.09,cielo claro
+Berlin,2.17,89,2.68,nubes
+Singapore,26.97,87,6.69,lluvia ligera
+Lagos,27.8,77,2.97,cielo claro
+Mexico City,17.75,39,0.0,cielo claro
+Seoul,5.76,100,3.09,bruma
+Istanbul,12.31,82,2.57,cielo claro
+Dubai,26.96,47,2.57,cielo claro
+Barcelona,17.6,55,7.2,nubes dispersas
