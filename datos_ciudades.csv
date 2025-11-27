@@ -1,21 +1,21 @@
-﻿Ciudad,Temperatura (°C),Humedad (%),Velocidad Viento (m/s),Clima Descripcion
-Madrid,11.01,92,9.77,lluvia moderada
-New York,10.09,48,6.69,cielo claro
-Tokyo,12.18,68,3.09,muy nuboso
-Sydney,17.51,82,2.57,nubes
-Cairo,22.42,64,5.66,lluvia ligera
-Rio de Janeiro,27.02,68,5.66,muy nuboso
-Moscow,1.94,55,6.28,nubes
-Cape Town,20.35,68,12.35,cielo claro
-Toronto,5.85,73,4.63,cielo claro
-Beijing,0.94,25,4.87,cielo claro
-Mumbai,28.99,61,2.06,niebla
-Buenos Aires,23.25,54,3.09,cielo claro
-Berlin,2.17,89,2.68,nubes
-Singapore,26.97,87,6.69,lluvia ligera
-Lagos,27.8,77,2.97,cielo claro
-Mexico City,17.75,39,0.0,cielo claro
-Seoul,5.76,100,3.09,bruma
-Istanbul,12.31,82,2.57,cielo claro
-Dubai,26.96,47,2.57,cielo claro
-Barcelona,17.6,55,7.2,nubes dispersas
+﻿Ciudad,Temperatura,Humedad,Velocidad Viento,Clima Descripcion,Continente
+Madrid,7.21,71,1.54,cielo claro,Europe
+New York,7.02,42,8.75,cielo claro,America
+Tokyo,10.67,77,2.04,cielo claro,Asia
+Sydney,18.58,83,3.6,algo de nubes,Oceania
+Cairo,17.42,63,3.6,cielo claro,Africa
+Rio de Janeiro,24.43,85,6.69,muy nuboso,America
+Moscow,5.4,63,3.24,lluvia ligera,Europe
+Cape Town,22.21,65,4.02,cielo claro,Africa
+Toronto,1.6,77,15.2,nevada ligera,America
+Beijing,-5.06,29,1.56,nubes,Asia
+Mumbai,25.99,69,0.0,niebla,Asia
+Buenos Aires,30.12,59,2.38,nubes,America
+Berlin,3.37,80,4.47,nubes,Europe
+Singapore,27.68,86,2.06,lluvia moderada,Asia
+Lagos,26.42,86,2.54,muy nuboso,Africa
+Mexico City,20.53,37,4.12,nubes dispersas,America
+Seoul,-1.24,80,1.54,cielo claro,Asia
+Istanbul,13.68,67,0.51,cielo claro,Asia
+Dubai,23.96,57,2.06,cielo claro,Asia
+Barcelona,9.27,50,4.12,cielo claro,Europe
