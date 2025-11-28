@@ -1,21 +1,21 @@
 ﻿Ciudad,Temperatura,Humedad,Velocidad Viento,Clima Descripcion,Continente
-Madrid,7.21,71,1.54,cielo claro,Europe
-New York,7.02,42,8.75,cielo claro,America
-Tokyo,10.67,77,2.04,cielo claro,Asia
-Sydney,18.58,83,3.6,algo de nubes,Oceania
-Cairo,17.42,63,3.6,cielo claro,Africa
-Rio de Janeiro,24.43,85,6.69,muy nuboso,America
-Moscow,5.4,63,3.24,lluvia ligera,Europe
-Cape Town,22.21,65,4.02,cielo claro,Africa
-Toronto,1.6,77,15.2,nevada ligera,America
-Beijing,-5.06,29,1.56,nubes,Asia
-Mumbai,25.99,69,0.0,niebla,Asia
-Buenos Aires,30.12,59,2.38,nubes,America
-Berlin,3.37,80,4.47,nubes,Europe
-Singapore,27.68,86,2.06,lluvia moderada,Asia
-Lagos,26.42,86,2.54,muy nuboso,Africa
-Mexico City,20.53,37,4.12,nubes dispersas,America
-Seoul,-1.24,80,1.54,cielo claro,Asia
-Istanbul,13.68,67,0.51,cielo claro,Asia
-Dubai,23.96,57,2.06,cielo claro,Asia
-Barcelona,9.27,50,4.12,cielo claro,Europe
+Madrid,13.46,52,3.09,cielo claro,Europe
+New York,4.27,48,11.32,cielo claro,America
+Tokyo,11.66,50,9.26,muy nuboso,Asia
+Sydney,20.72,84,0.45,nubes,Oceania
+Cairo,23.42,43,3.09,nubes,Africa
+Rio de Janeiro,30.01,48,4.12,algo de nubes,America
+Moscow,3.18,60,3.06,muy nuboso,Europe
+Cape Town,21.81,69,8.23,cielo claro,Africa
+Toronto,1.0,69,15.2,muy nuboso,America
+Beijing,-2.06,24,0.96,nubes dispersas,Asia
+Mumbai,27.99,61,1.54,niebla,Asia
+Buenos Aires,28.24,60,0.45,cielo claro,America
+Berlin,6.68,83,3.6,nubes dispersas,Europe
+Singapore,24.29,93,1.54,lluvia moderada,Asia
+Lagos,29.97,66,3.64,muy nuboso,Africa
+Mexico City,13.86,58,2.57,muy nuboso,America
+Seoul,-2.24,100,1.03,cielo claro,Asia
+Istanbul,16.2,63,4.12,cielo claro,Asia
+Dubai,25.96,57,4.12,cielo claro,Asia
+Barcelona,14.87,42,4.12,cielo claro,Europe
