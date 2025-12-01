@@ -4,16 +4,6 @@ Este repositorio contiene un conjunto de scripts y notebooks para el análisis d
 
 ---
 
-## 📂 Contenido del repositorio
-
-- `data/` → Carpeta con los conjuntos de datos meteorológicos (CSV, Excel, etc.)
-- `notebooks/` → Jupyter Notebooks con análisis paso a paso
-- `scripts/` → Scripts en Python para procesamiento y visualización
-- `results/` → Gráficos, tablas y reportes generados
-- `README.md` → Este archivo
-
----
-
 ## ⚙️ Requisitos
 
 Para ejecutar el proyecto necesitas tener instalado:
