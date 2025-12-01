@@ -15,7 +15,8 @@ Para ejecutar el proyecto necesitas tener instalado:
   - `matplotlib`
   - `seaborn`
   - `scikit-learn` (para análisis predictivo)
-    
+  - `plotly`
+  - `country_converted`
 ---
 
 ## 🚀 Uso
